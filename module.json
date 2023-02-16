@@ -25,8 +25,8 @@
     }]
   },
    "url":"https://github.com/Nargath/fvtt-crit-hits-and-fumbles-pf1",
-   "download":"https://github.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/releases/download/1.0.3/1.0.3.zip",
-   "manifest":"https://raw.githubusercontent.com/Nargath/fvtt-crit-hits-and-fumbles-pf1/main/module.json",
+   "download":"https://github.com/TarKHaoS/fvtt-crit-hits-and-fumbles-pf1/releases/download/1.0.3/1.0.3.zip",
+   "manifest":"https://raw.githubusercontent.com/TarKHaoS/fvtt-crit-hits-and-fumbles-pf1/main/module.json",
    "packs": [
    {
       "name": "crithits",
