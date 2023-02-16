@@ -7,7 +7,7 @@
       "name": "Nargath"
     }
   ],
-  "version": "1.0.2",
+  "version": "1.0.4",
   "compatibility": {
     "minimum": "10",
     "verified": "10.290",
@@ -25,7 +25,7 @@
     }]
   },
    "url":"https://github.com/Nargath/fvtt-crit-hits-and-fumbles-pf1",
-   "download":"https://github.com/TarKHaoS/fvtt-crit-hits-and-fumbles-pf1/releases/download/1.0.3/1.0.3.zip",
+   "download":"https://github.com/TarKHaoS/fvtt-crit-hits-and-fumbles-pf1/archive/refs/tags/1.0.4.zip",
    "manifest":"https://raw.githubusercontent.com/TarKHaoS/fvtt-crit-hits-and-fumbles-pf1/main/module.json",
    "packs": [
    {
